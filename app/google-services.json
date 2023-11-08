@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44961546362",
+    "project_id": "foodappkotlin-ca277",
+    "storage_bucket": "foodappkotlin-ca277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44961546362:android:1c4c507d6d312a084d3bc3",
+        "android_client_info": {
+          "package_name": "com.duydv.vn.foodappkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQVZWuU5tHfcZixHe0LOnJnLowpwDGg90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
